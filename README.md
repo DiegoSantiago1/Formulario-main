@@ -2,6 +2,9 @@
 
 Este é um projeto de formulário de criação de conta desenvolvido com **HTML, CSS e JavaScript**, com foco em praticar estruturação de layout, estilização moderna e interatividade.
 
+🔗 Acesse o projeto:
+👉 https://diegosantiago1.github.io/Formulario-main/
+
 ---
 
 ## 🚀 Funcionalidades
