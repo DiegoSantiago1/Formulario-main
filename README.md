@@ -51,18 +51,10 @@ Neste projeto, pratiquei:
 
 ## 📸 Preview
 
-[alt text](<../../Pictures/Screenshots/Captura de tela 2026-05-03 003745.png>)
+<img width="1918" height="945" alt="Captura de tela 2026-05-03 003745" src="https://github.com/user-attachments/assets/ca6ebcea-bfc1-4d9b-899d-22fb56d54bea" />
+
 ---
 
-## 🔗 Como executar
-
-1. Clone o repositório:
-
-```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-2. Abra o arquivo `index.html` no navegador
 
 ---
 
