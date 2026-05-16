@@ -1,4 +1,4 @@
-# 🧾 Formulário de Cadastro
+# 🧾 Sistema de Login
 
 Este é um projeto de formulário de criação de conta desenvolvido com **HTML, CSS e JavaScript**, com foco em praticar estruturação de layout, estilização moderna e interatividade.
 
